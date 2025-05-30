@@ -69,9 +69,7 @@ function CategorySidebar({ onClose, onShowSubcategory, subcategoryVisible }) {
           })}
         </div>
         <div className="mt-10 px-4 pb-4">
-          <div className="w-full h-32 bg-gradient-to-r from-purple-400 to-blue-500 rounded-lg flex items-center justify-center text-white font-bold">
-            Promotional Banner
-          </div>
+          <img src="/public/img/Main menu animation banner.png" alt="" />
         </div>
       </div>
     </div>

@@ -6,7 +6,7 @@ import ProductList from "./products/ProductList"
 const ProductWithSummary = () => {
     return(
     
-          <div className="grid grid-cols-2 mt-10">
+          <div className="grid grid-cols-1 lg:grid-cols-2 mt-10">
           <ProductList/>
           <CheckoutSummary/>
         </div>

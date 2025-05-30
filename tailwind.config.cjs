@@ -6,10 +6,13 @@ module.exports = withMT({
   theme: {
     extend: {
       colors: {
-        pinkclr: "#ff00a7", 
+        pinkclr: "#F54E80", 
         teelclr: "#03A7A7", 
         orangeclr:"#FF7736",
-        textclr:"#2B3674"
+        textclr:"#D5CCFF",
+        blueclr : '#6D4EFF',
+        purpleclr : "#6D4EFF",
+        greenclr : "#D0FF16"
         
       },
       borderColor: (theme) => ({
